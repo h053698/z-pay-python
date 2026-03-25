@@ -1,6 +1,6 @@
 """ZPay Python SDK — async client for the ZPay payment gateway."""
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from .client import ZPayClient
 from .exceptions import ZPayAPIError, ZPayError, ZPaySignatureError
